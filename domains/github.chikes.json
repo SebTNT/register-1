@@ -1,0 +1,17 @@
+{
+    "description": "A Domain for a small startup",
+
+    "domain": "is-local.org",
+    "subdomain": "_github-pages-challenge-chikes-web-turquoisetnt.chikes",
+
+    "owner": {
+        "repo": "https://github.com/chikes-web-turquoisetnt/chikes-web-turquoisetnt.github.io",
+        "email": "turquoisetntmultimedia+chikesweb@gmail.com"
+    },
+
+    "record": {
+        "TXT": "dcf5c8e97084aef0306a7c2b4f162d"
+    },
+
+    "proxied": false
+}
